@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shivam2562001
 - 👀 I’m interested in Software development
-- 🌱 I’m gained experience in MERN STACK
+- 🌱 I have gained experience in MERN STACK
 - 💞️ I’m looking to collaborate on prestigious firm that enhance my skills and have good community
 - 📫 How to reach me Email - ssssss2562001@gmail.com
 
